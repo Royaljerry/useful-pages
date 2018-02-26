@@ -4,344 +4,142 @@
 
 ---
 
-Bold titles indicate RSS recommendations (i.e. daily reads).
+**Bold titles** indicate RSS recommendations (i.e. daily reads).
 
 ---
 
 # Visual
 
-## Art
-- [**Hopes&Fears**](http://www.hopesandfears.com)
-- [**The Artifice**](http://the-artifice.com)
-- [**Design Milk**](https://design-milk.com)
-- [**This Isn’t Happiness**](http://thisisnthappiness.com)
-- [**INAG**](http://inagblog.com/)
-- [**ArtMagazin**](http://artmagazin.hu/)
-- [**SOCKS**](http://socks-studio.com)
-- [**ArchDaily**](https://www.archdaily.com)
-- [**Artportal**](https://artportal.hu)
-
-## Design
-- [**Compass of Design**](https://read.compassofdesign.com/)
-- [**Graphic Competitions**](https://graphiccompetitions.com)
-- [**The Creators Project**](http://thecreatorsproject.vice.com)
-- [**Design Everywhere**](http://designeverywhere.tumblr.com)
-- [**Design and Paper**](https://www.designandpaper.com)
-- [**SerialThriller**](http://serialthriller.com)
-- [**But Does It Float**](https://butdoesitfloat.coml)
-- [**DesignFaves**](http://www.designfaves.com)
-- [**Planetary Folklore**](http://planetaryfolklore.tumblr.com)
-- [**Too Many Design**](http://toomanydesign.tumblr.com)
-- [**DesignRelic**](http://designrelic.com)
-- [**Thrift Store Records**](http://thriftstorerecords.tumblr.com)
-
-## Typography
-- [**Typotheque**](https://www.typotheque.com/)
-- [**I Love Typography**](http://ilovetypography.com/)
-- [**Pure Typography**](http://puretypography.tumblr.com/)
-- [**Typewolf**](https://www.typewolf.com/)
-- [**Dark Side of Typography**](http://andren.tumblr.com/)
-- [**Typeset in the Future**](https://typesetinthefuture.com/)
-- [**Typographica**](http://typographica.org/)
-- [**The Book Design Blog**](http://thebookdesignblog.com/)
-- [Paper Sizes](http://papersizes.io)
-
-## Generative Art
-- [**Creative Applications**](http://www.creativeapplications.net/)
-- [Processing.org](https://processing.org)
-- [Context Free Art](https://www.contextfreeart.org)
-
-## Inspiration
-- [**Minimaletic**](http://minimaletic.tumblr.com/)
-- [**Pia-Mélissa Laroche**](http://piamelissalaroche.fr/)
-- [**May I Have This Dance**](http://ellafrancessanders.tumblr.com)
-- [**Build / Built / Built**](http://build-built-built.tumblr.com)
-- [**Balla Dóra Typografika**](http://typografika.tumblr.com/)
-- [**Discover Typography**](http://discover.typography.com/)
+| Art in General                                            | Design & Inspiration                                               | Typography                                                   | Generative Art                                                    |
+| --------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------------- |
+| [**ArchDaily**](https://www.archdaily.com/)               | [**Balla Dóra Typografika**](http://typografika.tumblr.com/)       | [**Dark Side of Typography**](http://andren.tumblr.com/)     | [**Creative Applications**](http://www.creativeapplications.net/) |
+| [**ArtMagazin**](http://artmagazin.hu/)                   | [**Build / Built / Built**](http://build-built-built.tumblr.com/)  | [**I Love Typography**](http://ilovetypography.com/)         | [Context Free Art](https://www.contextfreeart.org/)               |
+| [**Artportal**](https://artportal.hu/)                    | [**But Does It Float**](https://butdoesitfloat.com/)               | [**Pure Typography**](http://puretypography.tumblr.com/)     | [Processing.org](https://processing.org/)                         |
+| [**Design Milk**](https://design-milk.com/)               | [**Compass of Design**](https://read.compassofdesign.com/)         | [**The Book Design Blog**](http://thebookdesignblog.com/)    |                                                                   |
+| [**Hopes&Fears**](http://www.hopesandfears.com/)          | [**Design and Paper**](https://www.designandpaper.com/)            | [**Typeset in the Future**](https://typesetinthefuture.com/) |                                                                   |
+| [**INAG**](http://inagblog.com/)                          | [**Design Everywhere**](http://designeverywhere.tumblr.com/)       | [**Typewolf**](https://www.typewolf.com/)                    |                                                                   |
+| [**SOCKS**](http://socks-studio.com/)                     | [**DesignFaves**](http://www.designfaves.com/)                     | [**Typographica**](http://typographica.org/)                 |                                                                   |
+| [**The Artifice**](http://the-artifice.com/)              | [**Discover Typography**](http://discover.typography.com/)         | [**Typotheque**](https://www.typotheque.com/)                |                                                                   |
+| [**This Isn’t Happiness**](http://thisisnthappiness.com/) | [**Graphic Competitions**](https://graphiccompetitions.com/)       | [Paper Sizes](http://papersizes.io/)                         |                                                                   |
+|                                                           | [**May I Have This Dance**](http://ellafrancessanders.tumblr.com/) |                                                              |                                                                   |
+|                                                           | [**Minimaletic**](http://minimaletic.tumblr.com/)                  |                                                              |                                                                   |
+|                                                           | [**Pia-Mélissa Laroche**](http://piamelissalaroche.fr/)            |                                                              |                                                                   |
+|                                                           | [**Planetary Folklore**](http://planetaryfolklore.tumblr.com/)     |                                                              |                                                                   |
+|                                                           | [**SerialThriller**](http://serialthriller.com/)                   |                                                              |                                                                   |
+|                                                           | [**The Creators Project**](http://thecreatorsproject.vice.com/)    |                                                              |                                                                   |
+|                                                           | [**Thrift Store Records**](http://thriftstorerecords.tumblr.com/)  |                                                              |                                                                   |
+|                                                           | [**Too Many Design**](http://toomanydesign.tumblr.com/)            |                                                              |                                                                   |
+[Visual]
 
 # Lifestyle
 
-## Generic
-- [**Amusing Planet**](http://www.amusingplanet.com)
-- [**Lazarbibi**](http://lazarbibi.blog.hu)
-- [**Ma is tanultam valamit**](http://index.hu/tudomany/til)
-- [**Snook**](http://snook.ca)
+| Generic                                                     | Culture                                                                       | Music                                                 | Fun & Games                                                |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------- |
+| [**Amusing Planet**](http://www.amusingplanet.com/)         | [**Index Fortepan**](http://index.hu/fortepan/)                               | [**AllMusic**](http://www.allmusic.com/)              | [**3bored**](http://upsidedownturtle.com/boredboredbored/) |
+| [**Lazarbibi**](http://lazarbibi.blog.hu/)                  | [**Librarius**](http://librarius.hu/)                                         | [**Brainwashed**](http://www.brainwashed.com/)        | [**Biolab Disaster**](http://playbiolab.com/)              |
+| [**Ma is tanultam valamit**](http://index.hu/tudomany/til/) | [**Magyar Narancs**](http://magyarnarancs.hu/)                                | [**Jazz Music News**](http://www.allaboutjazz.com/)   | [**Canvas Rider**](http://canvasrider.com/tracks/356176/)  |
+| [**Snook**](http://snook.ca/)                               | [**Open Culture**](http://www.openculture.com/)                               | [**Lángoló Gitárok**](http://langologitarok.blog.hu/) | [**Clients from Hell**](http://clientsfromhell.net/)       |
+|                                                             | [**Public Domain Review**](https://publicdomainreview.org/)                   | [**Mojo Magazine**](http://www.mojo4music.com/)       | [**Narancsszüret**](http://magyarnarancs.hu/szuret/)       |
+|                                                             | [**The Guardian Cult**](http://www.theguardian.com/uk/culture/)               | [**Music 4 Prog**](http://musicforprogramming.net/)   | [**Napirajz Index**](http://index.hu/napirajz/)            |
+|                                                             | [**The Pudding**](https://pudding.cool/)                                      | [**Post-Punk**](http://www.post-punk.com/)            | [**Napirajz Home**](http://napirajz.hu/)                   |
+|                                                             | [**Toiletries & Pleasantries**](http://toiletriesandpleasantries.tumblr.com/) | [**Recorder**](http://recorder.blog.hu/)              | [**Wrong Hands**](http://wronghands1.com/)                 |
+|                                                             |                                                                               | [**Stenk**](http://index.hu/kultur/zene/)             |                                                            |
+|                                                             |                                                                               | [**Beatkorszak**](http://beatkorszak.blog.hu/)        |                                                            |
+[Lifestyle]
 
-## Culture
-- [**Librarius**](http://librarius.hu)
-- [**Magyar Narancs**](http://magyarnarancs.hu)
-- [**The Guardian → Culture**](http://www.theguardian.com/uk/culture)
-- [**The Pudding**](https://pudding.cool)
-- [**Toiletries & Pleasantries**](http://toiletriesandpleasantries.tumblr.com)
-- [**Index → Fortepan**](http://index.hu/fortepan/)
-- [**Open Culture**](http://www.openculture.com/)
-- [**The Public Domain Review**](https://publicdomainreview.org/)
+# Online Applications
 
-## Music
-- [**Stenk**](http://index.hu/kultur/zene/)
-- [**Volt egyszer egy beatkorszak**](http://beatkorszak.blog.hu/)
-- [**Recorder**](http://recorder.blog.hu/)
-- [**Brainwashed**](http://www.brainwashed.com/)
-- [**Jazz Music News**](http://www.allaboutjazz.com/)
-- [**AllMusic**](http://www.allmusic.com/)
-- [**Lángoló Gitárok**](http://langologitarok.blog.hu/)
-- [**Mojo Magazine**](http://www.mojo4music.com/)
-- [**Post-Punk**](http://www.post-punk.com/)
-- [**Music For Programming**](http://musicforprogramming.net/)
-
-## Fun
-- [**Napirajz → Index**](http://index.hu/napirajz)
-- [**Clients from Hell**](http://clientsfromhell.net)
-- [**Napurajz → Home**](http://napirajz.hu)
-- [**Wrong Hands**](http://wronghands1.com)
-- [**Magyar Narancs → Szüret**](http://magyarnarancs.hu/szuret)
-
-## Games
-
-- [**3bored**](http://upsidedownturtle.com/boredboredbored/)
-- [**Biolab Disaster**](http://playbiolab.com/)
-- [**Canvas Rider**](http://canvasrider.com/tracks/356176)
-
-# Applications
-
-## Color
-- [Color Library](http://colorlibrary.ch/)
-- [ColorDrop](https://colordrop.io/)
-- [Colorize](https://alexbeals.com/projects/colorize/)
-- [ColorMe](https://colorme.io/)
-- [Colormind](http://colormind.io/)
-- [Contrast Ratio](http://leaverou.github.io/contrast-ratio/)
-- [Coolors](https://coolors.co/browser)
-- [Material Palette](http://www.materialpalette.com/)
-- [Paletton](http://paletton.com/)
-- [SassMe](http://jim-nielsen.com/sassme/)
-
-## Develop
-- [Animista](http://animista.net/play/)
-- [Base64 Coder](https://www.base64encode.org/)
-- [Breakpoints Generator](http://www.responsivebreakpoints.com/)
-- [Dirty Markup](http://www.dirtymarkup.com/)
-- [Estimatr](https://www.estimatrapp.com/)
-- [Gist](https://gist.github.com/)
-- [Grid Calculator](http://gridcalculator.dk/)
-- [HTML Minifier](http://www.willpeavy.com/minifier/)
-- [HyperDev](https://hyperdev.com/)
-- [iconizr](http://iconizr.com/)
-- [Modulator](https://hihayk.github.io/modulator/)
-- [Page to Markdown](javascript:location.href='http://heckyesmarkdown.com/go/?read=0&preview=0&showframe=1&u='+encodeURIComponent(document.location.href);)
-- [Simple CSS](http://simplecss.eu/)
-- [Styling Wizard: Google Maps APIs](https://mapstyle.withgoogle.com/)
-- [Transfonter](http://transfonter.org/)
-- [W3C Developer Tools](http://www.w3.org/developers/tools/)
-- [Web Performance Checklist](http://jonyablonski.com/designers-wpo-checklist/)
-- [WebPagetest](http://www.webpagetest.org/)
-- [Base64 Encoder](http://b64.io)
-- [Calculator Soup](https://www.calculatorsoup.com)
-- [CopyChar](http://copychar.cc)
-
-## Graphics
-- [Boilerplate Builder for Three.js](https://jeromeetienne.github.io/threejsboilerplatebuilder/)
-- [Crystallisation](http://soulwire.github.io/Crystallisation/)
-- [Dreamscope](https://dreamscopeapp.com/u/royaljerry)
-- [HalftonePro](https://halftonepro.com/app)
-- [Iterograph](http://iterograph.laboiteatortue.com/#/)
-- [Linify](http://linify.me/)
-- [Online Barcode Generator](http://www.terryburton.co.uk/barcodewriter/generator/)
-- [Photopea](http://www.photopea.com/)
-- [SVGOMG](https://jakearchibald.github.io/svgomg/)
-- [Tantalum](https://benedikt-bitterli.me/tantalum/tantalum.html)
-- [Trianglify Generator](https://qrohlf.com/trianglify-generator/)
-- [Triangulart](http://maxwellito.github.io/triangulart/)
-
-## Placeholder
-- [Corporate Ipsum](http://www.cipsum.com/)
-- [CreateBrief](http://createbrief.com/)
-- [Lórum ipse](http://www.lorumipse.hu/)
-- [Performance Review Generator](http://mschmitt.org/performance/)
-
-## Typography
-- [Archetype](https://archetypeapp.com/)
-- [Font Pair](http://fontpair.co/)
-- [Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator)
-- [Fontie](https://fontie.flowyapps.com/home)
-- [Fontjoy](http://fontjoy.com/)
-- [FontStruct](https://fontstruct.com/)
-- [Size Calculator](https://sizecalc.com/#distance=10meters&physical-size=5meters&perceived-size-units=degrees)
-- [Type Anything](https://typeanything.io/)
-- [Typespiration](http://typespiration.com/)
+| Develop                                                                                                                                                     | Typography & Related                                                   | Graphics                                                                               | Color                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [Animista](http://animista.net/play/)                                                                                                                       | [Archetype](https://archetypeapp.com/)                                 | [Boilerplate for Three.js](https://jeromeetienne.github.io/threejsboilerplatebuilder/) | [Color Library](http://colorlibrary.ch/)                    |
+| [Base64 Coder](https://www.base64encode.org/)                                                                                                               | [Corporate Ipsum](http://www.cipsum.com/)                              | [Crystallisation](http://soulwire.github.io/Crystallisation/)                          | [ColorDrop](https://colordrop.io/)                          |
+| [Base64 Encoder](http://b64.io/)                                                                                                                            | [CreateBrief](http://createbrief.com/)                                 | [Dreamscope](https://dreamscopeapp.com/u/royaljerry/)                                  | [Colorize](https://alexbeals.com/projects/colorize/)        |
+| [Breakpoints Generator](http://www.responsivebreakpoints.com/)                                                                                              | [Font Pair](http://fontpair.co/)                                       | [HalftonePro](https://halftonepro.com/app/)                                            | [ColorMe](https://colorme.io/)                              |
+| [Calculator Soup](https://www.calculatorsoup.com/)                                                                                                          | [Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator/) | [Iterograph](http://iterograph.laboiteatortue.com/#/)                                  | [Colormind](http://colormind.io/)                           |
+| [CopyChar](http://copychar.cc/)                                                                                                                             | [Fontie](https://fontie.flowyapps.com/home/)                           | [Linify](http://linify.me/)                                                            | [Contrast Ratio](http://leaverou.github.io/contrast-ratio/) |
+| [Dirty Markup](http://www.dirtymarkup.com/)                                                                                                                 | [Fontjoy](http://fontjoy.com/)                                         | [Online Barcode](http://www.terryburton.co.uk/barcodewriter/generator/)                | [Coolors](https://coolors.co/browser/)                      |
+| [Estimatr](https://www.estimatrapp.com/)                                                                                                                    | [FontStruct](https://fontstruct.com/)                                  | [Photopea](http://www.photopea.com/)                                                   | [Material Palette](http://www.materialpalette.com/)         |
+| [Gist](https://gist.github.com/)                                                                                                                            | [Lórum ipse](http://www.lorumipse.hu/)                                 | [SVGOMG](https://jakearchibald.github.io/svgomg/)                                      | [Paletton](http://paletton.com/)                            |
+| [Grid Calculator](http://gridcalculator.dk/)                                                                                                                | [Performance Review](http://mschmitt.org/performance/)                 | [Tantalum](https://benedikt-bitterli.me/tantalum/tantalum.html/)                       | [SassMe](http://jim-nielsen.com/sassme/)                    |
+| [HTML Minifier](http://www.willpeavy.com/minifier/)                                                                                                         | [Size Calculator](https://sizecalc.com/)                               | [Trianglify Generator](https://qrohlf.com/trianglify-generator/)                       |                                                             |
+| [HyperDev](https://hyperdev.com/)                                                                                                                           | [Type Anything](https://typeanything.io/)                              | [Triangulart](http://maxwellito.github.io/triangulart/)                                |                                                             |
+| [iconizr](http://iconizr.com/)                                                                                                                              | [Typespiration](http://typespiration.com/)                             |                                                                                        |                                                             |
+| [Modulator](https://hihayk.github.io/modulator/)                                                                                                            |                                                                        |                                                                                        |                                                             |
+| [Page to Markdown](javascript:location.href='http://heckyesmarkdown.com/go/?read=0&preview=0&showframe=1&u='+encodeURIComponent(document.location.href/);/) |                                                                        |                                                                                        |                                                             |
+| [Simple CSS](http://simplecss.eu/)                                                                                                                          |                                                                        |                                                                                        |                                                             |
+| [Styling Google Maps](https://mapstyle.withgoogle.com/)                                                                                                     |                                                                        |                                                                                        |                                                             |
+| [Transfonter](http://transfonter.org/)                                                                                                                      |                                                                        |                                                                                        |                                                             |
+| [W3C Developer Tools](http://www.w3.org/developers/tools/)                                                                                                  |                                                                        |                                                                                        |                                                             |
+| [Web Performance Checklist](http://jonyablonski.com/designers-wpo-checklist/)                                                                               |                                                                        |                                                                                        |                                                             |
+| [WebPagetest](http://www.webpagetest.org/)                                                                                                                  |                                                                        |                                                                                        |                                                             |
+[Online Applications]
 
 # Resources
 
-## Apps
-- [Awesome Shell](https://github.com/alebcay/awesome-shell)
-- [Electron](https://electron.atom.io/apps/)
-- [Fileship](https://www.fileship.io/transfer)
-- [Google Open Source](https://opensource.google.com/)
-- [MacUpdate](http://www.macupdate.com/)
-- [One Thing Well](http://onethingwell.org/)
-- [Paddle](https://my.paddle.com/login)
-- [Rudix](http://rudix.org/)
-- [The App Store](https://theappstore.org/)
-- [**Carsten Blüm**](http://www.bluem.net)
+| Apps                                                       | Elems                                          | Dev                                                                | Lists                                                       |
+| ---------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------- |
+| [**Carsten Blüm**](http://www.bluem.net/)                  | [**Pivle**](http://pivle.com/)                 | [Awesome jQuery](https://github.com/peterkokot/awesome-jquery/)    | [**The Sweet Setup**](http://thesweetsetup.com/)            |
+| [Awesome Shell](https://github.com/alebcay/awesome-shell/) | [FindA.Photo](http://finda.photo/)             | [Bootstrap Resources](http://www.bootstraphero.com/)               | [Design Freebie](https://www.reddit.com/r/designfreebie/)   |
+| [Electron](https://electron.atom.io/apps/)                 | [Flaticon](http://www.flaticon.com/)           | [Character Entities](http://dev.w3.org/html5/html-author/charref/) | [Design Resources](http://designresources.party/)           |
+| [Fileship](https://www.fileship.io/transfer/)              | [Foodshot](http://foodshot.co/)                | [Colors](http://clrs.cc/)                                          | [Git:Logs](http://www.gitlogs.com/resource-guides/)         |
+| [Google Open Source](https://opensource.google.com/)       | [GitHub Explore](https://github.com/explore/)  | [Components](http://components.underscores.me/)                    | [GraphicsFuel](http://www.graphicsfuel.com/)                |
+| [One Thing Well](http://onethingwell.org/)                 | [GlyphSearch](http://glyphsearch.com//)        | [Dwitter](https://www.dwitter.net/)                                | [Linkdropper](http://linkdropper.k-weisl.net/)              |
+| [Paddle](https://my.paddle.com/login/)                     | [Google Fonts](https://www.google.com/fonts/)  | [MarkApp](http://markapp.io/)                                      | [Makerbook](http://makerbook.net/)                          |
+| [Rudix](http://rudix.org/)                                 | [Hero Patterns](http://www.heropatterns.com/)  | [Material UI](http://www.materialui.co/)                           | [Sans Francisco](http://www.sansfrancis.co/)                |
+| [The App Store](https://theappstore.org/)                  | [IcoMoon](https://icomoon.io/)                 | [MaterialUp](http://www.materialup.com/)                           | [Sketch App Sources](https://www.sketchappsources.com/)     |
+|                                                            | [Lists](http://www.lists.design/)              | [There Is a Bot for That](https://thereisabotforthat.com/)         | [Startup Collections](http://startupcollections.com/)       |
+|                                                            | [Lost Type](http://www.losttype.com/)          | [Web Devtools](https://www.keycdn.com/blog/web-development-tools/) | [Static Site Generators](https://staticsitegenerators.net/) |
+|                                                            | [Noun Project](https://thenounproject.com/)    | [Web Snippets](https://css-tricks.com/snippets/html/)              | [Web Field Manual](http://webfieldmanual.com/)              |
+|                                                            | [OpenFoundry](http://open-foundry.com/hot30/)  |                                                                    |                                                             |
+|                                                            | [Pixabay](https://pixabay.com/)                |                                                                    |                                                             |
+|                                                            | [Retro Vectors](http://retrovectors.com/)      |                                                                    |                                                             |
+|                                                            | [Start Bootstrap](https://startbootstrap.com/) |                                                                    |                                                             |
+|                                                            | [Stock.io](https://www.stockio.com/)           |                                                                    |                                                             |
+|                                                            | [Theme Cards](http://www.theme.cards/)         |                                                                    |                                                             |
+|                                                            | [ThemeForest](https://themeforest.net/)        |                                                                    |                                                             |
+|                                                            | [Vladstudio](http://www.vladstudio.com/home/)  |                                                                    |                                                             |
+[Resources]
 
-## Elements
-- [Flaticon](http://www.flaticon.com/)
-- [GitHub Explore](https://github.com/explore)
-- [Hero Patterns](http://www.heropatterns.com/)
-- [IcoMoon](https://icomoon.io/)
-- [Lists](http://www.lists.design/)
-- [Noun Project](https://thenounproject.com/)
-- [Retro Vectors](http://retrovectors.com/)
-- [Theme Cards](http://www.theme.cards/)
-- [ThemeForest](https://themeforest.net/)
-- [Vladstudio](http://www.vladstudio.com/home/)
-- [**Pivle**](http://pivle.com)
-- [Start Bootstrap](https://startbootstrap.com)
+# Knowledge
 
-## Fonts
-- [GlyphSearch](http://glyphsearch.com//)
-- [Google Fonts](https://www.google.com/fonts)
-- [Lost Type](http://www.losttype.com/)
-- [OpenFoundry](http://open-foundry.com/hot30)
-
-## Stock
-- [FindA.Photo](http://finda.photo/)
-- [Foodshot](http://foodshot.co/)
-- [Pixabay](https://pixabay.com/)
-- [Stockio](https://www.stockio.com/)
-
-## Web
-- [Awesome jQuery](https://github.com/peterkokot/awesome-jquery)
-- [Bootstrap Resources](http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)
-- [Character Entities](http://dev.w3.org/html5/html-author/charref)
-- [Colors](http://clrs.cc/)
-- [Components](http://components.underscores.me/)
-- [Dwitter](https://www.dwitter.net/)
-- [MarkApp](http://markapp.io/)
-- [Material UI](http://www.materialui.co/)
-- [MaterialUp](http://www.materialup.com/)
-- [There Is a Bot for That](https://thereisabotforthat.com/)
-- [Web Devtools](https://www.keycdn.com/blog/web-development-tools/)
-- [Web Snippets](https://css-tricks.com/snippets/html/)
-
-## List
-- [Design Freebie](https://www.reddit.com/r/designfreebie/)
-- [Design Resources](http://designresources.party/)
-- [Git:Logs](http://www.gitlogs.com/resource-guides)
-- [GraphicsFuel](http://www.graphicsfuel.com/)
-- [Linkdropper](http://linkdropper.k-weisl.net/)
-- [Makerbook](http://makerbook.net/)
-- [Sans Francisco](http://www.sansfrancis.co/)
-- [Sketch App Sources](https://www.sketchappsources.com/)
-- [Startup Collections](http://startupcollections.com/)
-- [Static Site Generators](https://staticsitegenerators.net/)
-- [**The Sweet Setup**](http://thesweetsetup.com/)
-- [Web Field Manual](http://webfieldmanual.com/)
-
-# Info
-
-## Technology
-- [**Speckyboy**](http://speckyboy.com/)
-- [**SitePoint**](https://www.sitepoint.com/)
-- [**Socket 3**](https://socket3.wordpress.com/)
-- [**OS X Daily**](http://osxdaily.com/)
-- [**The Guardian → Technology**](http://www.theguardian.com/uk/technology/)
-- [**Angular**](http://blog.angularjs.org/)
-- [**A List Apart**](http://alistapart.com/)
-- [Ana Balica](https://ana-balica.github.io/)
-- [**Brett Terpstra**](http://brettterpstra.com/)
-- [CoderWall](https://coderwall.com/)
-- [CSS Wizardry](https://csswizardry.com/archive/)
-- [CSS-Tricks](https://css-tricks.com/)
-- [DevDocs](https://devdocs.io/)
-- [Electron](https://electron.atom.io/)
-- [Evan Hahn](https://evanhahn.com/)
-- [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
-- [**Hongkiat**](http://www.hongkiat.com/blog/)
-- [Journal of Vision](http://jov.arvojournals.org/)
-- [Low End Mac](http://lowendmac.com/)
-- [Material Design](https://material.io/)
-- [**Smashing Magazine**](http://www.smashingmagazine.com/)
-- [**The New Code**](http://thenewcode.com)
-- [**The Next Web**](https://thenextweb.com)
-- [Brett Terpstra @ Pinboard](https://pinboard.in/u:ttscoff)
-- [Web Designer Wall](http://webdesignerwall.com/)
-- [**Webdesigner Depot**](http://www.webdesignerdepot.com/)
-- [**Webdesigner News**](http://www.webdesignernews.com/)
-- [Zell Liew](http://zellwk.com/blog/)
-
-## Applications
-- [Adobe Developer Connection](http://www.adobe.com/devnet.html)
-- [**InDesign Secrets**](https://indesignsecrets.com/)
-- [Jump Start Git](https://www.sitepoint.com/premium/books/jump-start-git/online/index)
-- [Oh, shit, git!](http://ohshitgit.com/)
-- [Photoshop Etiquette](http://photoshopetiquette.com/)
-- [Pillow](https://pillow.readthedocs.io/en/3.2.x/)
-- [Pro Git](https://git-scm.com/book/en/v2)
-
-## Coding
-- [SassMagic](http://w3cplus.github.io/SassMagic/)
-- [Chalarangelo](https://github.com/Chalarangelo/30-seconds-of-code)
-- [The State Of JavaScript 2017](https://stateofjs.com/)
-- [Awesome Python](https://awesome-python.com)
-- [**Web Tools Weekly**](https://webtoolsweekly.com/)
-- [**Noupe**](http://www.noupe.com/)
-- [**Bits of Code**](http://bitsofco.de/)
-- [**②ality**](http://www.2ality.com/)
-- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [A Complete Web Developer Reading List](http://thenewcode.com/1188/A-Complete-Web-Developer-Reading-List)
-- [AngularJS API Reference](https://docs.angularjs.org/api)
-- [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
-- [Can I Use?](http://caniuse.com/)
-- [Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)
-- [CSS Media Queries](http://michael-gannon.com/media/index.html)
-- [CSS Support Guide for Emails](https://www.campaignmonitor.com/css/)
-- [Electron Documentation](https://electron.atom.io/docs/all/)
-- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
-- [Google Developers](https://developers.google.com/)
-- [Google Maps APIs](https://developers.google.com/maps/)
-- [GridBugs](https://github.com/rachelandrew/gridbugs)
-- [JSON Quick Guide](https://www.tutorialspoint.com/json/json_quick_guide.htm)
-- [JSON Tutorial](https://www.tutorialspoint.com/json/index.htm)
-- [Learn X in Y Minutes](https://learnxinyminutes.com/)
-- [NavNav](http://navnav.co/)
-- [Pluralsight](https://app.pluralsight.com/library/)
-- [Pluralsight](https://app.pluralsight.com/library/browse)
-- [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)
-- [Real World Haskell](http://book.realworldhaskell.org/)
-- [RichCSS](http://www.richcss.com/)
-- [Sass Documentation](http://sass-lang.com/documentation/)
-- [Udemy](https://www.udemy.com/home/my-courses/learning/)
-- [Unicode Codepoints](http://unicode.scarfboy.com/)
-- [WDRL](https://wdrl.info/)
-- [Web Launch Checklist](https://weblaunchchecklist.com/)
-- [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
-- [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
-
-## Mac
-- [**MacStories**](https://www.macstories.net)
-- [**MacUpdate**](http://www.macupdate.com/)
-- [EveryMac](https://everymac.com)
-
-## Language
-- [Sideways Dictionary](https://sidewaysdictionary.com/#/)
-- [SZTAKI Szótár](http://szotar.sztaki.hu/)
-- [Thesaurus.com](http://www.thesaurus.com/)
-
-## UI/UX
-- [**UX Planet**](https://uxplanet.org/)
-- [Adele](https://adele.uxpin.com/)
-- [Compass of Design](https://compassofdesign.com/archive/writing/)
-- [DesignBetter](https://www.designbetter.co/)
-- [Designers Toolbox](http://designerstoolbox.com/)
-- [Google Design Resources](https://design.google.com/resources/)
-- [Google Design](https://design.google.com/)
-- [Google Material Design](https://material.io/guidelines/material-design/introduction.html)
-- [UX Drutalism](https://www.uxbrutalism.com/)
-- [UXcellence](https://uxcellence.com/)
-- [Zeplin Gazette](https://blog.zeplin.io/)
-- [**Little Big Details**](http://littlebigdetails.com/)
-
-## Product
-- [Product Manual](https://www.productmanual.co)
-- [Buy Me A Coffee](https://www.buymeacoffee.com)
+| Technology                                                                                              | Coding                                                                                    | UI/UX & Product                                                                             | Language                                         |
+| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| [**A List Apart**](http://alistapart.com/)                                                              | [**Bits of Code**](http://bitsofco.de/)                                                   | [**Little Big Details**](http://littlebigdetails.com/)                                      | [Sideways Dict](https://sidewaysdictionary.com/) |
+| [**Angular**](http://blog.angularjs.org/)                                                               | [**Noupe**](http://www.noupe.com/)                                                        | [**UX Planet**](https://uxplanet.org/)                                                      | [SZTAKI Szótár](http://szotar.sztaki.hu/)        |
+| [**Brett Terpstra**](http://brettterpstra.com/)                                                         | [**Web Tools Weekly**](https://webtoolsweekly.com/)                                       | [Adele](https://adele.uxpin.com/)                                                           | [Thesaurus.com](http://www.thesaurus.com/)       |
+| [**Hongkiat**](http://www.hongkiat.com/blog/)                                                           | [**②ality**](http://www.2ality.com/)                                                      | [Buy Me A Coffee](https://www.buymeacoffee.com/)                                            |                                                  |
+| [**InDesign Secrets**](https://indesignsecrets.com/)                                                    | [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)      | [Compass of Design](https://compassofdesign.com/archive/writing/)                           |                                                  |
+| [**MacStories**](https://www.macstories.net/)                                                           | [Web Dev Reading List](http://thenewcode.com/1188/A-Complete-Web-Developer-Reading-List/) | [DesignBetter](https://www.designbetter.co/)                                                |                                                  |
+| [**MacUpdate**](http://www.macupdate.com/)                                                              | [AngularJS API Reference](https://docs.angularjs.org/api/)                                | [Designers Toolbox](http://designerstoolbox.com/)                                           |                                                  |
+| [**OS X Daily**](http://osxdaily.com/)                                                                  | [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)                     | [Google Design Resources](https://design.google.com/resources/)                             |                                                  |
+| [**SitePoint**](https://www.sitepoint.com/)                                                             | [Awesome Python](https://awesome-python.com/)                                             | [Google Design](https://design.google.com/)                                                 |                                                  |
+| [**Smashing Magazine**](http://www.smashingmagazine.com/)                                               | [Can I Use?](http://caniuse.com/)                                                         | [Google Material Design](https://material.io/guidelines/material-design/introduction.html/) |                                                  |
+| [**Socket 3**](https://socket3.wordpress.com/)                                                          | [Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)                  | [Product Manual](https://www.productmanual.co/)                                             |                                                  |
+| [**Speckyboy**](http://speckyboy.com/)                                                                  | [Chalarangelo](https://github.com/Chalarangelo/30-seconds-of-code/)                       | [UX Drutalism](https://www.uxbrutalism.com/)                                                |                                                  |
+| [**The Guardian Tech**](http://www.theguardian.com/uk/technology/)                                      | [CSS Media Queries](http://michael-gannon.com/media/index.html/)                          | [UXcellence](https://uxcellence.com/)                                                       |                                                  |
+| [**The New Code**](http://thenewcode.com/)                                                              | [CSS Support for Emails](https://www.campaignmonitor.com/css/)                            | [Zeplin Gazette](https://blog.zeplin.io/)                                                   |                                                  |
+| [**The Next Web**](https://thenextweb.com/)                                                             | [Electron Documentation](https://electron.atom.io/docs/all/)                              |                                                                                             |                                                  |
+| [**Webdesigner Depot**](http://www.webdesignerdepot.com/)                                               | [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks/)                       |                                                                                             |                                                  |
+| [**Webdesigner News**](http://www.webdesignernews.com/)                                                 | [Google Developers](https://developers.google.com/)                                       |                                                                                             |                                                  |
+| [Adobe Dev Conn](http://www.adobe.com/devnet.html/)                                                     | [Google Maps APIs](https://developers.google.com/maps/)                                   |                                                                                             |                                                  |
+| [Ana Balica](https://ana-balica.github.io/)                                                             | [GridBugs](https://github.com/rachelandrew/gridbugs/)                                     |                                                                                             |                                                  |
+| [Brett Terpstra @ Pinboard](https://pinboard.in/u:ttscoff/)                                             | [JSON Quick Guide](https://www.tutorialspoint.com/json/json_quick_guide.htm/)             |                                                                                             |                                                  |
+| [CoderWall](https://coderwall.com/)                                                                     | [JSON Tutorial](https://www.tutorialspoint.com/json/index.htm/)                           |                                                                                             |                                                  |
+| [CSS Wizardry](https://csswizardry.com/archive/)                                                        | [Learn X in Y Minutes](https://learnxinyminutes.com/)                                     |                                                                                             |                                                  |
+| [CSS-Tricks](https://css-tricks.com/)                                                                   | [NavNav](http://navnav.co/)                                                               |                                                                                             |                                                  |
+| [DevDocs](https://devdocs.io/)                                                                          | [Pluralsight](https://app.pluralsight.com/library/)                                       |                                                                                             |                                                  |
+| [Electron](https://electron.atom.io/)                                                                   | [Pluralsight](https://app.pluralsight.com/library/browse/)                                |                                                                                             |                                                  |
+| [Evan Hahn](https://evanhahn.com/)                                                                      | [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)                            |                                                                                             |                                                  |
+| [EveryMac](https://everymac.com/)                                                                       | [Real World Haskell](http://book.realworldhaskell.org/)                                   |                                                                                             |                                                  |
+| [Free Prog Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md/) | [RichCSS](http://www.richcss.com/)                                                        |                                                                                             |                                                  |
+| [Journal of Vision](http://jov.arvojournals.org/)                                                       | [Sass Documentation](http://sass-lang.com/documentation/)                                 |                                                                                             |                                                  |
+| [Jump Start Git](https://www.sitepoint.com/premium/books/jump-start-git/online/index/)                  | [SassMagic](http://w3cplus.github.io/SassMagic/)                                          |                                                                                             |                                                  |
+| [Low End Mac](http://lowendmac.com/)                                                                    | [The State Of JavaScript 2017](https://stateofjs.com/)                                    |                                                                                             |                                                  |
+| [Material Design](https://material.io/)                                                                 | [Udemy](https://www.udemy.com/home/my-courses/learning/)                                  |                                                                                             |                                                  |
+| [Oh, shit, git!](http://ohshitgit.com/)                                                                 | [Unicode Codepoints](http://unicode.scarfboy.com/)                                        |                                                                                             |                                                  |
+| [Photoshop Etiquette](http://photoshopetiquette.com/)                                                   | [WDRL](https://wdrl.info/)                                                                |                                                                                             |                                                  |
+| [Pillow](https://pillow.readthedocs.io/en/3.2.x/)                                                       | [Web Launch Checklist](https://weblaunchchecklist.com/)                                   |                                                                                             |                                                  |
+| [Pro Git](https://git-scm.com/book/en/v2/)                                                              | [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS/)                          |                                                                                             |                                                  |
+| [Web Designer Wall](http://webdesignerwall.com/)                                                        | [You Might Not Need jQuery](http://youmightnotneedjquery.com/)                            |                                                                                             |                                                  |
+| [Zell Liew](http://zellwk.com/blog/)                                                                    |                                                                                           |                                                                                             |                                                  |
+[Knowledge]
